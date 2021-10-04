@@ -99,13 +99,6 @@ Here are some ideas to get you started:
 
 </td></tr></table>  
 
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mwcp9k1mbs9k3ugu34t26qq4v&cover_image=true&theme=compact" /></div>  
-
-<br/>  
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/CephasPeter" target="_blank">
