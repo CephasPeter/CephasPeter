@@ -1,7 +1,7 @@
 Hi 👋 My name is Cephas Arowolo
 ===============================
 
-Mobile Developer - Crossplatform(Flutter, React Native and Kotlin Multiplatform) x Native(Java/Kotlin, Swift)
+Mobile Developer - Hybrid(Flutter, React Native and Kotlin Multiplatform) x Native(Java/Kotlin, Swift)
 ----------------
 
 5+ years developing for Android and 1+ years for iOS. Hoping to get into Web-3 soon.
