@@ -1,7 +1,7 @@
 Hi 👋 My name is Cephas Arowolo
 ===============================
 
-Mobile Developer
+Mobile Developer - Flutter x Native
 ----------------
 
 5+ years developing for Android and 1+ years for iOS. Hoping to get into Web-3 soon.
