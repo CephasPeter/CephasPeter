@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cephaspeter&label=Profile%20views&color=0e75b6&style=flat" alt="cephaspeter" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
-
 - 💬 Ask me about **Mobile Development, Flutter, Dart and Kotlin**
 
 - 📫 How to reach me **cephasarowolo@gmail.com**
